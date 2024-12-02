@@ -1,6 +1,6 @@
 # **FitSphere AI 💪**
 
-<p align="center"> <img src="./images/logo.png" alt="FitSphere AI Logo" width="150" position:left> </p>
+<p align="left"> <img src="./images/logo.png" alt="FitSphere AI Logo" width="150" > </p>
 
 > **Your Ultimate AI-Powered Fitness Companion**
 >
